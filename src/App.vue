@@ -8,7 +8,7 @@
       <v-list-item>
         <v-list-item-content>
           <v-list-item-title class="text-h6">
-            Subtitle Genrerator
+            Subtitle Generator
           </v-list-item-title>
           <v-list-item-subtitle>
             Best video subtitle generator!
